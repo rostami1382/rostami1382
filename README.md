@@ -1,16 +1,26 @@
-## Hi there 👋
+#Fadak University
 
-<!--
-**rostami1382/rostami1382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fatemeh Rostami
 
-Here are some ideas to get you started:
+This is **bold**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is *Italic*.
+
+This is ***bold & Ttalic**.
+
+``` python
+a=0
+print(a)
+```
+
+
+- Python
+- Deep Learning
+- RNN
+- CNN
+- NLP
+
+  >This is Test.
+  > > This is another
+
+  ![Skill](https://eramblog.com/img/1696233544_2207341.jpg).
