@@ -6,7 +6,7 @@ This is **bold**.
 
 This is *Italic*.
 
-This is ***bold & Ttalic**.
+This is ***bold & Ttalic***.
 
 ``` python
 a=0
